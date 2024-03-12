@@ -1,45 +1,10 @@
-<!-- 
-Provide a general summary of your changes in the title above. You should
-remove this overview, any sections and any section descriptions you
-don't need below before submitting. There isn't a strict requirement to
-use this template if you can structure your description and still cover
-these points. 
--->
+<!-- Thank you for contributing to this project! -->
+<!-- The code in this repository is all auto-generated, and is not meant to be edited manually. -->
+<!-- We recommend opening an Issue instead, but you are still welcome to open a PR to share for -->
+<!-- an improvement if you wish, just note that we are unlikely to merge it as-is. -->
 
-## Description
+- [ ] I understand that this repository is auto-generated and my pull request may not be merged
 
-<!--
-Describe your changes in detail through motivation and context. Why is
-this change required? What problem does it solve? If it fixes an open
-issue, link to the issue using GitHub's closing issues keywords[1].
--->
-## Has your change been tested?
+## Changes being requested
 
-<!--
-Explain how the change has been tested and what you ran to confirm your
-change affects other parts of the code. Automated tests are generally
-expected and changes without tests should explain why they aren't
-required.
--->
-
-## Screenshots (if appropriate):
-
-## Types of changes
-
-What sort of change does your code introduce/modify?
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
-
-## Checklist:
-
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
-- [ ] This change is using publicly documented in [cloudflare/api-schemas](https://github.com/cloudflare/api-schemas) 
-      and relies on stable APIs.
-
-[1]: https://help.github.com/articles/closing-issues-using-keywords/
+## Additional context & links
